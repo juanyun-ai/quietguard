@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">长安 QuietGuard 的保护流程</title>
+  <desc id="desc">默认观察，核对连续风险证据和上下文保护，用户授权后进入可取消倒计时，最后重新核验单个进程。</desc>
+  <rect width="1200" height="340" rx="12" fill="#f5f7f6"/>
+  <text x="48" y="56" fill="#182522" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="25" font-weight="700">先保护正在做的事，再考虑处理进程</text>
+  <text x="48" y="84" fill="#56645f" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15">规则不会单独越过用户授权和项目保护</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <rect x="48" y="122" width="250" height="156" rx="10" fill="#ffffff" stroke="#d9e0dc"/>
+    <rect x="48" y="122" width="250" height="8" rx="4" fill="#177e75"/>
+    <text x="70" y="166" fill="#177e75" font-size="13" font-weight="700">01 / 观察</text>
+    <text x="70" y="204" fill="#182522" font-size="19" font-weight="650">查看热区和负载</text>
+    <text x="70" y="238" fill="#68746f" font-size="14">默认不会结束进程</text>
+
+    <path d="M308 199h26m-8-8 8 8-8 8" fill="none" stroke="#8b9892" stroke-width="2"/>
+
+    <rect x="344" y="122" width="250" height="156" rx="10" fill="#ffffff" stroke="#d9e0dc"/>
+    <rect x="344" y="122" width="250" height="8" rx="4" fill="#377a9e"/>
+    <text x="366" y="166" fill="#377a9e" font-size="13" font-weight="700">02 / 保护上下文</text>
+    <text x="366" y="204" fill="#182522" font-size="19" font-weight="650">前台、近期、项目</text>
+    <text x="366" y="238" fill="#68746f" font-size="14">未知身份时停止判断</text>
+
+    <path d="M604 199h26m-8-8 8 8-8 8" fill="none" stroke="#8b9892" stroke-width="2"/>
+
+    <rect x="640" y="122" width="250" height="156" rx="10" fill="#ffffff" stroke="#d9e0dc"/>
+    <rect x="640" y="122" width="250" height="8" rx="4" fill="#c27a24"/>
+    <text x="662" y="166" fill="#a45f12" font-size="13" font-weight="700">03 / 明确授权</text>
+    <text x="662" y="204" fill="#182522" font-size="19" font-weight="650">逐实例许可</text>
+    <text x="662" y="238" fill="#68746f" font-size="14">倒计时可取消</text>
+
+    <path d="M900 199h26m-8-8 8 8-8 8" fill="none" stroke="#8b9892" stroke-width="2"/>
+
+    <rect x="936" y="122" width="216" height="156" rx="10" fill="#ffffff" stroke="#d9e0dc"/>
+    <rect x="936" y="122" width="216" height="8" rx="4" fill="#8a5979"/>
+    <text x="958" y="166" fill="#8a5979" font-size="13" font-weight="700">04 / 最终复核</text>
+    <text x="958" y="204" fill="#182522" font-size="19" font-weight="650">仅处理该实例</text>
+    <text x="958" y="238" fill="#68746f" font-size="14">自动路径限 SIGTERM</text>
+  </g>
+</svg>

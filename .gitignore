@@ -1,0 +1,11 @@
+build/
+dist/
+Work/
+Data/
+Releases/
+Backups/
+Assets/Previews/
+.DS_Store
+__pycache__/
+*.pyc
+.ai-bridge/

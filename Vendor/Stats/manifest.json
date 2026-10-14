@@ -1,0 +1,24 @@
+{
+  "repository": "https://github.com/exelban/stats",
+  "ref": "v3.0.17",
+  "files": [
+    {
+      "source": "https://raw.githubusercontent.com/exelban/stats/v3.0.17/LICENSE",
+      "local": "LICENSE",
+      "sha256": "79a58cb749dcc8b569c432f92ed37cf05527e505e4de4999199aed22b6a6cbf8",
+      "bytes": 1074
+    },
+    {
+      "source": "https://raw.githubusercontent.com/exelban/stats/v3.0.17/SMC/smc.swift",
+      "local": "SMC_smc.swift",
+      "sha256": "41a04396d73725c655e213af6a45979dcb644a239e6535b65f5509d2c9352567",
+      "bytes": 25942
+    },
+    {
+      "source": "https://raw.githubusercontent.com/exelban/stats/v3.0.17/Modules/Sensors/values.swift",
+      "local": "Modules_Sensors_values.swift",
+      "sha256": "e3a36de091be5f781cba7016615cfd0450902e56d4fa7ffdc28689c531865c67",
+      "bytes": 34767
+    }
+  ]
+}
