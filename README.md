@@ -1,30 +1,34 @@
 # 长安 QuietGuard
 
 <p align="center">
-  <img src="Assets/QuietGuardMark.png" width="88" alt="长安应用图标">
+  <img src="Assets/QuietGuardMark.png" width="112" alt="长安应用图标">
 </p>
 
 <h2 align="center">少打扰，多守护。</h2>
-<p align="center">一个把资源观察、进程身份和可撤销规则收进菜单栏的 macOS 原生原型。</p>
+<p align="center"><strong>把资源观察、进程身份和可撤销规则收进一个安静的菜单栏工具。</strong></p>
+<p align="center">一款面向 macOS 的原生保护原型，默认观察，明确授权，保留撤回路径。</p>
 
 <p align="center">
-  <img src="README-assets/social-preview-v3.png" alt="长安 QuietGuard 产品展示卡">
+  <img src="https://img.shields.io/badge/VERSION-0.2.0-orange?style=for-the-badge&labelColor=505050" alt="Version 0.2.0">
+  <img src="https://img.shields.io/badge/PLATFORM-macOS%2015-63c59c?style=for-the-badge&labelColor=505050" alt="macOS 15">
+  <img src="https://img.shields.io/badge/STACK-SWIFT%20%2F%20APPKIT%20%2F%20SWIFTUI-82a9e0?style=for-the-badge&labelColor=505050" alt="Swift AppKit SwiftUI">
+  <img src="https://img.shields.io/badge/VALIDATED-APPLE%20SILICON-e97b73?style=for-the-badge&labelColor=505050" alt="Validated on Apple Silicon">
 </p>
 
 <p align="center">
+  <a href="#项目定位">项目定位</a> ·
   <a href="#保护设计">保护设计</a> ·
   <a href="#当前验证范围">验证范围</a> ·
   <a href="#安全说明">安全说明</a>
 </p>
 
-<table align="center">
-  <tr>
-    <td><strong>版本</strong><br>0.2.0</td>
-    <td><strong>平台</strong><br>macOS 15</td>
-    <td><strong>技术</strong><br>Swift · AppKit · SwiftUI</td>
-    <td><strong>验证</strong><br>Apple Silicon</td>
-  </tr>
-</table>
+> **重要说明**  长安是受控原型，不是杀毒软件、硬件诊断认证或无人值守的安全系统。任何结束进程的操作都有数据丢失风险。
+
+<p align="center">
+  <img src="README-assets/social-preview-v3.png" alt="长安 QuietGuard 产品展示卡">
+</p>
+
+## 视觉预览
 
 ![长安 QuietGuard 总览界面](README-assets/quietguard-dashboard.png)
 
