@@ -1,8 +1,8 @@
-# 长安 QuietGuard
+# 长安
 
-<p align="center">
-  <img src="Assets/QuietGuardMark.png" width="112" alt="长安应用图标">
-</p>
+<p align="center">QUIETGUARD · macOS 原生菜单栏保护原型</p>
+
+<hr>
 
 <h2 align="center">少打扰，多守护。</h2>
 <p align="center"><strong>把资源观察、进程身份和可撤销规则收进一个安静的菜单栏工具。</strong></p>
@@ -24,11 +24,13 @@
 
 > **重要说明**  长安是受控原型，不是杀毒软件、硬件诊断认证或无人值守的安全系统。任何结束进程的操作都有数据丢失风险。
 
+## 视觉预览
+
 <p align="center">
-  <img src="README-assets/social-preview-v3.png" alt="长安 QuietGuard 产品展示卡">
+  <img src="Assets/QuietGuardMark.png" width="88" alt="长安应用图标">
 </p>
 
-## 视觉预览
+![长安 QuietGuard 产品展示卡](README-assets/social-preview-v3.png)
 
 ![长安 QuietGuard 总览界面](README-assets/quietguard-dashboard.png)
 
