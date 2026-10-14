@@ -1,16 +1,30 @@
 # 长安 QuietGuard
 
-少打扰，多守护。一个面向 macOS 的原生菜单栏资源观察与进程保护原型，默认只观察，并把“何时可以处理”限制在可检查、可取消的规则里。
+<p align="center">
+  <img src="Assets/QuietGuardMark.png" width="88" alt="长安应用图标">
+</p>
 
-![长安 QuietGuard：少打扰，多守护](README-assets/social-preview-v2.png)
+<h2 align="center">少打扰，多守护。</h2>
+<p align="center">一个把资源观察、进程身份和可撤销规则收进菜单栏的 macOS 原生原型。</p>
 
 <p align="center">
-  <img src="Assets/QuietGuardMark.png" width="88" alt="长安 QuietGuard 图标">
+  <img src="README-assets/social-preview-v3.png" alt="长安 QuietGuard 产品展示卡">
 </p>
 
 <p align="center">
-  macOS 15 · Apple Silicon 实机验证 · Swift / AppKit / SwiftUI
+  <a href="#保护设计">保护设计</a> ·
+  <a href="#当前验证范围">验证范围</a> ·
+  <a href="#安全说明">安全说明</a>
 </p>
+
+<table align="center">
+  <tr>
+    <td><strong>版本</strong><br>0.2.0</td>
+    <td><strong>平台</strong><br>macOS 15</td>
+    <td><strong>技术</strong><br>Swift · AppKit · SwiftUI</td>
+    <td><strong>验证</strong><br>Apple Silicon</td>
+  </tr>
+</table>
 
 ![长安 QuietGuard 总览界面](README-assets/quietguard-dashboard.png)
 
